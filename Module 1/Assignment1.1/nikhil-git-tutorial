@@ -1,0 +1,1317 @@
+Script started on 2023-10-12 11:15:06+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;nikhil@TIGER01509: ~[01;32mnikhil@TIGER01509[00m:[01;34m~[00m$ script -a ~/nikhil_unix_turtorial[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[Kscript -a ~ /nikhil_unix_turtorial1[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgrep "searching" $(find . -name "*txt")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pwc -l $(find . -name "*.txt")[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep "searching" $(find . -name "*txt")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kscript -a ~ /nikhil_unix_turtorial1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[Kscript -a ~/nikhil_unix_turtorial[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kscript -a ~/nikhil_unix_turtorial[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[Kscript -a ~ /nikhil_unix_turtorial1[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kgrep "searching" $(find . -name "*txt")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pwc -l $(find . -name "*.txt")[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.txt")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pfind . -name "*.txt"[2P*.txt[4Ptype fd[K -type dfname *.txt"*.txt"wc -l $(find. -name ".txt")*.txt")[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep "searching" $(find . -name "*txt")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kscript -a ~ /nikhil_unix_turtorial1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[Kscript -a ~/nikhil_unix_turtorial[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit cio[K[Konfig --list --show-origin
+[?2004l[?1h=[K[?1l>[?2004h]0;nikhil@TIGER01509: ~[01;32mnikhil@TIGER01509[00m:[01;34m~[00m$ cd git-tutorail/
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ cd git-tutorail/git config --list --show-origin
+[?2004l[?1h=file:.git/config        core.repositoryformatversion=0[m
+file:.git/config        core.filemode=true[m
+file:.git/config        core.bare=false[m
+file:.git/config        core.logallrefupdates=true[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git config --list --show-origin[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004l[?1h=core.repositoryformatversion=0[m
+core.filemode=true[m
+core.bare=false[m
+core.logallrefupdates=true[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git congig user.name
+[?2004lgit: 'congig' is not a git command. See 'git --help'.
+
+The most similar command is
+	config
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git congig user.name[C[C[C[C[1P[1@f
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git config --global user.name "Nikhil Kakarlapudi"
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git config --global user.name "Nikhil Kakarlapudi"user.name[K
+[?2004lNikhil Kakarlapudi
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git config user.name[K[K[K[Kemail nihkil.kakarlp[Kapu@tih[Kgre[K[Keranalytics.com[C[C[C[C[C[C[1P.kakarlapu@tigeranalytics.com[1P.kakarlapu@tigeranalytics.com[1P.kakarlapu@tigeranalytics.com[1P.kakarlapu@tigeranalytics.comk.kakarlapu@tigeranalytics.comh.kakarlapu@tigeranalytics.comi.kakarlapu@tigeranalytics.coml.kakarlapu@tigeranalytics.com
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git config user.email nikhil.kakarlapu@tigeranalytics.comname[K[K[K[K[Kemail
+[?2004lnikhil.kakarlapu@tigeranalytics.com
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git config user.email nikhil.kakarlapu@tigeranalytics.comname[K--global user.name "Nikhil Kakarlapudi"user.name[K--global user.name "Nikhil Kakarlapudi"DDDDDDDDDD[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kinit.D[KdefaultBrab[Knch main
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git config --global init.defaultBranch mainuser.email[K nikhil.kakarlapu@tigeranalytics.comname[K--global user.name "Nikhil Kakarlapudi"user.name[Kg[C[C[C[C[C[C[C[C[C[C[C[C[3Pfig --listgig user.name[3Pfig --list
+[?2004l[?1h=user.name=Nikhil Kakarlapudi[m
+init.defaultbranch=main[m
+core.repositoryformatversion=0[m
+core.filemode=true[m
+core.bare=false[m
+core.logallrefupdates=true[m
+user.email=nikhil.kakarlapu@tigeranalytics.com[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git config --listglobal init.defaultBranch mainuser.email[K nikhil.kakarlapu@tigeranalytics.comname[K
+[?2004lNikhil Kakarlapudi
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git help confif[Kg
+[?2004l[?1049h[22;0;0t[?1h=GIT-CONFIG(1)                                         Git Manual                                        GIT-CONFIG(1)[m
+[m
+[1mNAME[0m[m
+       git-config - Get and set repository or global options[m
+[m
+[1mSYNOPSIS[0m[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] [--show-origin] [--show-scope] [-z|--null] name [value[m  [value-pattern]][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] --add name value[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--fixed-value] --replace-all name value [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] --get name [m [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] --get-all n[m ame [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [--show-origin] [--show-scope] [-z|--null] [--fixed-value] [--name-onl[m y] --get-regexp name_regex [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--type=<type>] [-z|--null] --get-urlmatch name URL[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--fixed-value] --unset name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--fixed-value] --unset-all name [value-pattern][m
+       [4mgit[24m [4mconfig[24m [<file-option>] --rename-section old_name new_name[m
+       [4mgit[24m [4mconfig[24m [<file-option>] --remove-section name[m
+       [4mgit[24m [4mconfig[24m [<file-option>] [--show-origin] [--show-scope] [-z|--null] [--name-only] -l | --list[m
+       [4mgit[24m [4mconfig[24m [<file-option>] --get-color name [default][m
+       [4mgit[24m [4mconfig[24m [<file-option>] --get-colorbool name [stdout-is-tty][m
+       [4mgit[24m [4mconfig[24m [<file-option>] -e | --edit[m
+[m
+[1mDESCRIPTION[0m[m
+       You can query/set/replace/unset options with this command. The name is actually the section and the key[m
+       separated by a dot, and the value will be escaped.[m
+[7m Manual page git-config(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add -h
+[?2004lusage: git add [<options>] [--] <pathspec>...
+
+    -n, --dry-run         dry run
+    -v, --verbose         be verbose
+
+    -i, --interactive     interactive picking
+    -p, --patch           select hunks interactively
+    -e, --edit            edit current diff and apply
+    -f, --force           allow adding otherwise ignored files
+    -u, --update          update tracked files
+    --renormalize         renormalize EOL of tracked files (implies -u)
+    -N, --intent-to-add   record only the fact that the path will be added later
+    -A, --all             add changes from all tracked and untracked files
+    --ignore-removal      ignore paths removed in the working tree (same as --no-all)
+    --refresh             don't add, only refresh the index
+    --ignore-errors       just skip files which cannot be added because of errors
+    --ignore-missing      check if - even missing - files are ignored in dry run
+    --sparse              allow updating entries outside of the sparse-checkout cone
+    --chmod (+|-)x        override the executable bit of the listed files
+    --pathspec-from-file <file>
+                          read pathspec from file
+    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add *.c
+[?2004lfatal: pathspec '*.c' did not match any files
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git DD[K[Kadd LICENSE
+[?2004lfatal: pathspec 'LICENSE' did not match any files
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git status
+[?2004lOn branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ echo "[K'My Project' > README
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ echo 'My Project' > README[16Pgit statusadd LICENSE[5Pstatus
+[?2004lOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git commit -m ';[C[K'I'n'i't'i'a'l' 'p'[1P'P'r'o'j'e'c't' 'V'e'r's'i'o'n'[C[1Persion'version'[C[1P[1@p
+[?2004lOn branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git status
+[?2004lOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add Rw[KEADME
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add README[4Pstatus
+[?2004lOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ cd RE[K[K[K[K[Kd[Kecho >> "[K''[K[C[K""H"e"k"[1P"l"l"o" "W"o"r"l"d"[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C >> "[KREADME
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ echo "Hello World" >> README[18Pgit status
+[?2004lOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   README[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git status -s
+[?2004l[32mA[m[31mM[m README
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add README
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add README[1Pstatus -s[K
+[?2004lOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ cat .gitignorwe[K[Ke
+[?2004lcat: .gitignore: No such file or directory
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ touch cat .gitignore[C[C[C[1P .gitignore[1P .gitignore[1P .gitignoren .gitignorea .gitignoren .gitignoreo .gitignore
+[?2004l[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                                           .gitignore                                                     [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2d[?12l[?25h[?25l[1;69H(B[0;7m*[119G(B[m[?12l[?25h[2d*[?25l[?12l[?25h.[?25l[?12l[?25h[[?25l[?12l[?25ho[?25l[?12l[?25ha[?25l[?12l[?25h[[?25l[?12l[?25h [?25l[?12l[?25h][?25l[3d[?12l[?25h[?25l[?12l[?25h*[?25l[?12l[?25h~[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: .gitignore                                                                                          [28;31H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;69H(B[0;7m [119G(B[m[28;52H(B[0;7m[ Wrote 2 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[3;3H[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ nano .gitignore
+[?2004l[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;53H(B[0;7m[ Read 2 lines ](B[m[H(B[0;7m  GNU nano 6.2                                           .gitignore                                                     [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2d*.[oa][3d*~[A[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h*[?25l[?12l[?25h~[?25l[1;115H(B[0;7mM   (B[m[?12l[?25h[3d*(B[0;7m~(B[m[?25l[?12l[?25h(B[0;7m*(B[m[?25l[?12l[?25h[2;7H[?25l[?12l[?25h(B[0;7m](B[m[?25l[?12l[?25h(B[0;7moa(B[m[?25l[?12l[?25h(B[0;7m*.[(B[m[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;115H(B[0;7m    (B[m[2d*.[oa][3d*~[?12l[?25h[?25l[?12l[?25h*[?25l[?12l[?25h~[?25l[1;115H(B[0;7mM   (B[m[?12l[?25h[3d*(B[0;7m~(B[m[?25l[1;69H(B[0;7m*[28d(B[m[K[1;119H(B[0;7m    (B[m[3d~[K[?12l[?25h[?25l[?12l[?25h~[?25l[1;115H(B[0;7mM   (B[m[?12l[?25h[2d*(B[0;7m.[oa][3d~[A(B[m[?25l[1;115H(B[0;7m    (B[m[2d.[oa][K[3d~[A[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h~[?25l[?12l[?25h[K[?25l[2;6H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[36m# ignore all .a files[3d[39m(B[m*.a[5d[36m# but do track lib.a, even though you're ignoring .a files above[6d[39m(B[m!lib.a[8d[36m# only ignore the TODO file in the current directory, not subdir/TODO[9d[39m(B[m/TODO[11d[36m# ignore all files in any directory named build[12d[39m(B[mbuild/[14d[36m# ignore doc/notes.txt, but not doc/server/arch.txt[15d[39m(B[mdoc/*.txt[17d[36m# ignore all .pdf files in the doc/ directory and any of its subdirectories[18d[39m(B[mdoc/**/*.pdf[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: .gitignore                                                                                          [28;31H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;69H(B[0;7m [119G(B[m[28;52H(B[0;7m[ Wrote 17 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[18;13H[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git status
+[?2004lOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ get diff
+[?2004lCommand 'get' not found, but there are 18 similar ones.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git diff
+[?2004l[?1h=[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git diffe[C[C[C[C[C[Cit statusnano .gitignore[1Pcat[C[C[C[C[C[C[C[C[C[C[C[4Pgit statusadd README[1Pstatus -s[Kecho "Hello World" >> README
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ echo "Hello World" >> READMEgit diff[K
+[?2004l[?1h=[1mdiff --git a/README b/README[m[m
+[1mindex c69f45f..675523e 100644[m[m
+[1m--- a/README[m[m
+[1m+++ b/README[m[m
+[36m@@ -1,2 +1,3 @@[m[m
+ My Project[m[m
+ Hello World[m[m
+[32m+[m[32mHello World[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git diff --staged
+[?2004l[?1h=[1mdiff --git a/README b/README[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..c69f45f[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/README[m[m
+[36m@@ -0,0 +1,2 @@[m[m
+[32m+[m[32mMy Project[m[m
+[32m+[m[32mHello World[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add README
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ echo 'testline' >> README
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git status
+[?2004lOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git diff
+[?2004l[?1h=[1mdiff --git a/README b/README[m[m
+[1mindex 675523e..8d569a2 100644[m[m
+[1m--- a/README[m[m
+[1m+++ b/README[m[m
+[36m@@ -1,3 +1,4 @@[m[m
+ My Project[m[m
+ Hello World[m[m
+ Hello World[m[m
+[32m+[m[32mtestline[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git diffstatusecho 'testline' >> README[11Pgit add[C[C[C[C[C[C[Cdiff --staged[K[K[K[K[K[Kcahced
+[?2004l[?1h=error: invalid option: --cahced[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git diff --cahced[K[K[K[Kched
+[?2004l[?1h=[1mdiff --git a/README b/README[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..675523e[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/README[m[m
+[36m@@ -0,0 +1,3 @@[m[m
+[32m+[m[32mMy Project[m[m
+[32m+[m[32mHello World[m[m
+[32m+[m[32mHello World[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git v[Kcommit
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 17 lines ](B[m[H(B[0;7m  GNU nano 6.2                          /home/nikhil/git-tutorail/.git/COMMIT_EDITMSG                                   [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[3d[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# On branch master[7d#[8d# Initial commit[9d#[10d# Changes to be committed:[11d#[38;5;208m       [36mnew file:   README[12d#[13d# Changes not staged for commit:[14d#[38;5;208m       [36mmodified:   README[15d#[16d# Untracked files:[17d#[38;5;208m       [36m.gitignore[18d#[2d[39m(B[m[?12l[?25h[?25l[1;87H(B[0;7m*[119G(B[m7[2;27r8[2dM[1;30r[3;1H[?12l[?25h[?25l[2;27r[27;1H
+[1;30r[2;1H[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: /home/nikhil/git-tutorail/.git/COMMIT_EDITMSG                                                       [28;66H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;87H(B[0;7m [119G(B[m[28;52H(B[0;7m[ Wrote 17 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[2d[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[KAborting commit due to empty commit message.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ get status
+[?2004lCommand 'get' not found, but there are 18 similar ones.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git status
+[?2004lOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git statuse[C[C[C[C[C[C[C[Cit commit
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 17 lines ](B[m[H(B[0;7m  GNU nano 6.2                          /home/nikhil/git-tutorail/.git/COMMIT_EDITMSG                                   [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[3d[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# On branch master[7d#[8d# Initial commit[9d#[10d# Changes to be committed:[11d#[38;5;208m       [36mnew file:   README[12d#[13d# Changes not staged for commit:[14d#[38;5;208m       [36mmodified:   README[15d#[16d# Untracked files:[17d#[38;5;208m       [36m.gitignore[18d#[2d[39m(B[m[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[9d[?25l[?12l[?25h[10d[?25l[?12l[?25h[11d[?25l[?12l[?25h[12d[?25l[?12l[?25h[13d[?25l[?12l[?25h[14d[?25l[?12l[?25h[15d[?25l[?12l[?25h[16d[?25l[?12l[?25h[17d[?25l[?12l[?25h[18d[?25l[?12l[?25h[19d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[28d[K[?12l[?25h[19d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;87H(B[0;7m*[119G(B[m[?12l[?25h[19dg[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hc[?25l[?12l[?25ho[?25l[?12l[?25hm[?25l[?12l[?25hm[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25h-[?25l[?12l[?25hm[?25l[?12l[?25h"[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h"[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hi[?25l[?12l[?25hl[?25l[?12l[?25h [?25l[?12l[?25hc[?25l[?12l[?25ho[?25l[?12l[?25hm[?25l[?12l[?25hm[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h"[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: /home/nikhil/git-tutorail/.git/COMMIT_EDITMSG                                                       [28;66H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;87H(B[0;7m [119G(B[m[28;52H(B[0;7m[ Wrote 18 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[19;31H[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[K[master (root-commit) 860a09c] git commit -m "initail commit"
+ 1 file changed, 3 insertions(+)
+ create mode 100644 README
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git commitstatuse[C[C[C[C[C[C[C[Ci[C[C[C[C[C[C[C[C
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add READNM[K[KME
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git commit
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 11 lines ](B[m[H(B[0;7m  GNU nano 6.2                          /home/nikhil/git-tutorail/.git/COMMIT_EDITMSG                                   [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[3d[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# On branch master[7d# Changes to be committed:[8d#[38;5;208m       [36mmodified:   README[9d#[10d# Untracked files:[11d#[38;5;208m       [36m.gitignore[12d#[2d[39m(B[m[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[9d[?25l[?12l[?25h[10d[?25l[?12l[?25h[11d[?25l[?12l[?25h[12d[?25l[?12l[?25h[C[?25l[1;87H(B[0;7m*[119G(B[m[13d[?12l[?25h[?25l[?12l[?25hg[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hc[?25l[?12l[?25ho[?25l[?12l[?25hm[?25l[28d[K[?12l[?25h[13;8Hm[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25h-[?25l[?12l[?25hm[?25l[?12l[?25h [?25l[?12l[?25h"[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25hi[?25l[?12l[?25ha[?25l[?12l[?25hl[?25l[?12l[?25h_[?25l[?12l[?25hc[?25l[?12l[?25ho[?25l[?12l[?25hm[?25l[?12l[?25hm[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h"[?25l[14d[?12l[?25h[?25l[13;31H[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: /home/nikhil/git-tutorail/.git/COMMIT_EDITMSG                                                       [28;66H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;87H(B[0;7m [119G(B[m[28;52H(B[0;7m[ Wrote 12 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[13;31H[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[K[master d7e85c4] git commit -m "initial_commit"
+ 1 file changed, 1 insertion(+)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git commitadd README[4Pstatus
+[?2004lOn branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ rm README
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ rm READMEgit status
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git status[1Prm README[1@g[1@i[1@t[1@ 
+[?2004lrm 'README'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git rm README[3Pstatus
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git rm --cached [K[K[K[K[K[K[K[K[K[K[K[Kadd README
+[?2004lfatal: pathspec 'README' did not match any files
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ GIT RM /[K[K[K[K[K[K[K[Kgit rm .[K/[Kll[Kof[Kg/\*.log
+[?2004lfatal: pathspec 'log/*.log' did not match any files
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ touch [K[K[K[K[K[Ktouch '[Kecho "hi" >> READEM[K[KME.MD[K[Kmd[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git mv README.md r[KREADME.md [K[K[K[K
+[?2004lfatal: not under version control, source=README.md, destination=README
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add README.md [K
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add README.mdmv README.md README
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git status'[K
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git commit -,[Km "sdjbvio"
+[?2004l[master 466a8a1] sdjbvio
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git commit -m "sdjbvio"status[Kmv README.md README[1P README[1P README[1P README[C[C[C[C[C[C[C[K[Kme
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git mv README READmecommit -m "sdjbvio"status[Kmv README.md READMEstatus[K
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    README -> READme[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ [7mgit clone https://github.com/schacon/simplegit-progit[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/schacon/simplegit-progit
+[?2004lCloning into 'simplegit-progit'...
+remote: Enumerating objects: 13, done.[K
+remote: Total 13 (delta 0), reused 0 (delta 0), pack-reused 13[K
+Receiving objects:   7% (1/13)Receiving objects:  15% (2/13)Receiving objects:  23% (3/13)Receiving objects:  30% (4/13)Receiving objects:  38% (5/13)Receiving objects:  46% (6/13)Receiving objects:  53% (7/13)Receiving objects:  61% (8/13)Receiving objects:  69% (9/13)Receiving objects:  76% (10/13)Receiving objects:  84% (11/13)Receiving objects:  92% (12/13)Receiving objects: 100% (13/13)Receiving objects: 100% (13/13), done.
+Resolving deltas:   0% (0/3)Resolving deltas:  33% (1/3)Resolving deltas:  66% (2/3)Resolving deltas: 100% (3/3)Resolving deltas: 100% (3/3), done.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ ls
+[?2004lREADme  [0m[01;34msimplegit-progit[0m
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ simpdata.tlb [K[K[K[K[K[K[K[K[K[K[K[K[Kcd simplegit-progit/
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ git log'[K
+[?2004l[?1h=[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Scott Chacon <schacon@gmail.com>[m
+Date:   Mon Mar 17 21:52:11 2008 -0700[m
+[m
+    changed the verison number[m
+[m
+[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
+Author: Scott Chacon <schacon@gmail.com>[m
+Date:   Sat Mar 15 16:40:33 2008 -0700[m
+[m
+    removed unnecessary test code[m
+[m
+[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
+Author: Scott Chacon <schacon@gmail.com>[m
+Date:   Sat Mar 15 10:31:28 2008 -0700[m
+[m
+    first commit[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ git log -p -[K
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ git log -p -[Kgit log -p -2
+[?2004l[?1h=[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Scott Chacon <schacon@gmail.com>[m
+Date:   Mon Mar 17 21:52:11 2008 -0700[m
+[m
+    changed the verison number[m
+[m
+[1mdiff --git a/Rakefile b/Rakefile[m[m
+[1mindex a874b73..8f94139 100644[m[m
+[1m--- a/Rakefile[m[m
+[1m+++ b/Rakefile[m[m
+[36m@@ -5,7 +5,7 @@[m [mrequire 'rake/gempackagetask'[m[m
+ spec = Gem::Specification.new do |s|[m[m
+     s.platform  =   Gem::Platform::RUBY[m[m
+     s.name      =   "simplegit"[m[m
+[31m-    s.version   =   "0.1.0"[m[m
+[32m+[m[32m    s.version   =   "0.1.1"[m[m
+     s.author    =   "Scott Chacon"[m[m
+     s.email     =   "schacon@gmail.com"[m[m
+     s.summary   =   "A simple gem for using Git in Ruby code."[m[m
+[m
+[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
+Author: Scott Chacon <schacon@gmail.com>[m
+Date:   Sat Mar 15 16:40:33 2008 -0700[m
+[m
+    removed unnecessary test code[m
+[m
+[1mdiff --git a/lib/simplegit.rb b/lib/simplegit.rb[m[m
+[1mindex a0a60ae..47c6340 100644[m[m
+[1m--- a/lib/simplegit.rb[m[m
+:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KBB[K[1m+++ b/lib/simplegit.rb[m[m
+:[K[K [KESCESC[KOO[KBB[K[36m@@ -18,8 +18,3 @@[m [mclass SimpleGit[m[m
+:[K[K [KESCESC[KOO[KBB[K     end[m[m
+:[K[K [KESCESC[KOO[KBB[K   [m[m
+:[K[K [KESCESC[KOO[KBB[K end[m[m
+:[K[K [KESCESC[KOO[KBB[K[31m-[m[m
+:[K[K [KESCESC[KOO[KBB[K[31m-if $0 == __FILE__[m[m
+:[K[K [KESCESC[KOO[KBB[K[31m-  git = SimpleGit.new[m[m
+:[K[K [KESCESC[KOO[KBB[K[31m-  puts git.show[m[m
+:[K[K [KESCESC[KOO[KBB[K[31m-end[m[m
+:[K[K [KESCESC[KOO[KBB[K\ No newline at end of file[m[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[H[2J[H spec = Gem::Specification.new do |s|[m[m
+     s.platform  =   Gem::Platform::RUBY[m[m
+     s.name      =   "simplegit"[m[m
+[31m-    s.version   =   "0.1.0"[m[m
+[32m+[m[32m    s.version   =   "0.1.1"[m[m
+     s.author    =   "Scott Chacon"[m[m
+     s.email     =   "schacon@gmail.com"[m[m
+     s.summary   =   "A simple gem for using Git in Ruby code."[m[m
+[m
+[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
+Author: Scott Chacon <schacon@gmail.com>[m
+Date:   Sat Mar 15 16:40:33 2008 -0700[m
+[m
+    removed unnecessary test code[m
+[m
+[1mdiff --git a/lib/simplegit.rb b/lib/simplegit.rb[m[m
+[1mindex a0a60ae..47c6340 100644[m[m
+[1m--- a/lib/simplegit.rb[m[m
+[1m+++ b/lib/simplegit.rb[m[m
+[36m@@ -18,8 +18,3 @@[m [mclass SimpleGit[m[m
+     end[m[m
+   [m[m
+ end[m[m
+[31m-[m[m
+[31m-if $0 == __FILE__[m[m
+[31m-  git = SimpleGit.new[m[m
+[31m-  puts git.show[m[m
+[31m-end[m[m
+\ No newline at end of file[m[m
+[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ git log -p -2[K[K[K[K-stat
+[?2004l[?1h=[33mcommit ca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Scott Chacon <schacon@gmail.com>[m
+Date:   Mon Mar 17 21:52:11 2008 -0700[m
+[m
+    changed the verison number[m
+[m
+ Rakefile | 2 [32m+[m[31m-[m[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)[m
+[m
+[33mcommit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m[m
+Author: Scott Chacon <schacon@gmail.com>[m
+Date:   Sat Mar 15 16:40:33 2008 -0700[m
+[m
+    removed unnecessary test code[m
+[m
+ lib/simplegit.rb | 5 [31m-----[m[m
+ 1 file changed, 5 deletions(-)[m
+[m
+[33mcommit a11bef06a3f659402fe7563abf99ad00de2209e6[m[m
+Author: Scott Chacon <schacon@gmail.com>[m
+Date:   Sat Mar 15 10:31:28 2008 -0700[m
+[m
+    first commit[m
+[m
+ README           |  6 [32m++++++[m[m
+ Rakefile         | 23 [32m+++++++++++++++++++++++[m[m
+ lib/simplegit.rb | 25 [32m+++++++++++++++++++++++++[m[m
+ 3 files changed, 54 insertions(+)[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ git log --stat[K[K[K[Kprt[Ker[Kttu[Ky -[K== online[K[K[K[K[K[K[K[K[K[K=oneline
+[?2004l[?1h=[33mca82a6dff817ec66f44342007202690a93763949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m changed the verison number[m
+[33m085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7[m removed unnecessary test code[m
+[33ma11bef06a3f659402fe7563abf99ad00de2209e6[m first commit[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ git log --pretty=oneline[K[K[K[K[K[K[Kformat:""%"h" "-" "%"a"n"," "#"[1P"%"a"r" "-" "s"%s"[1P %s": %s"[C[C[C[C
+[?2004l[?1h=ca82a6d - Scott Chacon, 16 years ago : changed the verison number[m
+085bb3b - Scott Chacon, 16 years ago : removed unnecessary test code[m
+a11bef0 - Scott Chacon, 16 years ago : first commit[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ git log --pretty=format:"%h - %an, %ar : %s"[C[1P %s"[1P%s"[1P %s"[1P %s"[1P %s"[1P%s"[1P %s"[1P %s"[1P %s"[1P %s"[1P%s"[1P %s"[1P%s"[C[C[C[C -- graph
+[?2004l[?1h=[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ [7mgit log --pretty=format:"%h %s" --graph[27mgit log --pretty=format:"%h %s" --graph
+[?2004l[?1h=* ca82a6d changed the verison number[m
+* 085bb3b removed unnecessary test code[m
+* a11bef0 first commit[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ [7mgit log --since=2.weeks[27mgit log --since=2.weeks
+[?2004l[?1h=[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ [7mgit log --pretty="%h - %s" --author='Junio C Hamano' --since="2008-10[27m[7m-[27m[7m01" \ [27m
+[7m   --before="2008-11-01" --no-merges -- t/[27m
+[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit log --pretty="%h - %s" --author='Junio C Hamano' --since="2008-10-01" \
+   --before="2008-11-01" --no-merges -- t/
+[A
+[?2004l[?1h=[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ git log --pretty="%h - %s" --author='Junio C Hamano' --since="2008-10-01"    --before="2008-11-01" --no-merges -- t/[C[A]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1@ [1@\
+[?2004l[?1h=[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ git log --pretty="%h - %s" --author='Junio C Hamano' --since="2008-10-01" \--before="2008-11-01" --no-merges -- t/[1@ 
+[?2004lfatal: bad revision ' --before=2008-11-01'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ git commit --amend
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 15 lines ](B[m[H(B[0;7m  GNU nano 6.2                 /home/nikhil/git-tutorail/simplegit-progit/.git/COMMIT_EDITMSG                           [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2dchanged the verison number[4d[36m# Please enter the commit message for your changes. Lines starting[5d# with '#' will be ignored, and an empty message aborts the commit.[6d#[7d# Author:    Scott Chacon <schacon@gmail.com>[8d# Date:      Mon Mar 17 21:52:11 2008 -0700[9d# Committer: Nikhil Kakarlapudi <nikhil@TIGER01509.tigeranalytics.local>[10d#[11d# On branch master[12d# Your branch is up to date with 'origin/master'.[13d#[14d# Changes to be committed:[15d#[38;5;208m       [36mmodified:   Rakefile[16d#[2d[39m(B[m[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[K[master f5cfaee] changed the verison number
+ Author: Scott Chacon <schacon@gmail.com>
+ Date: Mon Mar 17 21:52:11 2008 -0700
+ Committer: Nikhil Kakarlapudi <nikhil@TIGER01509.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/simplegit-progit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/simplegit-progit[00m$ cd..[K[K ..
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git status
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    README -> READme[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31msimplegit-progit/[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git status[5Pcd ..[K[K[K[K[K[7mgit reset HEAD CONTRIBUTING.md[27mgit reset HEAD CONTRIBUTING.md[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KRe[KEADme
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git reset HEAD READme[11Pstatus
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mREADme[m
+	[31msimplegit-progit/[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git statusreset HEAD READme[11Pstatus
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mREADme[m
+	[31msimplegit-progit/[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add READme 
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git checkour[Kt [K-- -- --[C[1P--[C[C Re[K[KREADme
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ get st[K[Kit checkout -- READmeet [Kit checkout -- READme[7Padd READme [5Pstatus
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    README -> READme[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31msimplegit-progit/[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ gi t=[K[K[Kt restore --staged Re[KEADme
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git restore --staged READmestatus[K
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mREADme[m
+	[31msimplegit-progit/[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git statusrestore --staged READme[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KREADme
+[?2004lerror: pathspec 'READme' did not match any file(s) known to git
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add r[KREADme 
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git add READme restore READme
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git restore READme[3Padd READme restore READme[8Pstatus
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    README -> READme[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31msimplegit-progit/[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ [7mgit clone https://github.com/schacon/ticgit[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/schacon/ticgit
+[?2004lCloning into 'ticgit'...
+remote: Enumerating objects: 1857, done.[K
+Receiving objects:   0% (1/1857)Receiving objects:   1% (19/1857)Receiving objects:   2% (38/1857)Receiving objects:   3% (56/1857)Receiving objects:   4% (75/1857)Receiving objects:   5% (93/1857)Receiving objects:   6% (112/1857)Receiving objects:   7% (130/1857)Receiving objects:   8% (149/1857)Receiving objects:   9% (168/1857)Receiving objects:  10% (186/1857)Receiving objects:  11% (205/1857)Receiving objects:  12% (223/1857)Receiving objects:  13% (242/1857)Receiving objects:  14% (260/1857)Receiving objects:  15% (279/1857)Receiving objects:  16% (298/1857)Receiving objects:  17% (316/1857)Receiving objects:  18% (335/1857)Receiving objects:  19% (353/1857)Receiving objects:  20% (372/1857)Receiving objects:  21% (390/1857)Receiving objects:  22% (409/1857)Receiving objects:  23% (428/1857)Receiving objects:  24% (446/1857)Receiving objects:  25% (465/1857)Receiving objects:  26% (483/1857)Receiving objects:  27% (502/1857)Receiving objects:  28% (520/1857)Receiving objects:  29% (539/1857)Receiving objects:  30% (558/1857)Receiving objects:  31% (576/1857)Receiving objects:  32% (595/1857)Receiving objects:  33% (613/1857)Receiving objects:  34% (632/1857)Receiving objects:  35% (650/1857)Receiving objects:  36% (669/1857)Receiving objects:  37% (688/1857)Receiving objects:  38% (706/1857)Receiving objects:  39% (725/1857)Receiving objects:  40% (743/1857)Receiving objects:  41% (762/1857)Receiving objects:  42% (780/1857)Receiving objects:  43% (799/1857)Receiving objects:  44% (818/1857)Receiving objects:  45% (836/1857)Receiving objects:  46% (855/1857)Receiving objects:  47% (873/1857)Receiving objects:  48% (892/1857)Receiving objects:  49% (910/1857)Receiving objects:  50% (929/1857)Receiving objects:  51% (948/1857)Receiving objects:  52% (966/1857)Receiving objects:  53% (985/1857)Receiving objects:  54% (1003/1857)Receiving objects:  55% (1022/1857)Receiving objects:  56% (1040/1857)Receiving objects:  57% (1059/1857)Receiving objects:  58% (1078/1857)Receiving objects:  59% (1096/1857)Receiving objects:  60% (1115/1857)Receiving objects:  61% (1133/1857)Receiving objects:  62% (1152/1857)Receiving objects:  63% (1170/1857)Receiving objects:  64% (1189/1857)Receiving objects:  65% (1208/1857)Receiving objects:  66% (1226/1857)Receiving objects:  67% (1245/1857)remote: Total 1857 (delta 0), reused 0 (delta 0), pack-reused 1857[K
+Receiving objects:  68% (1263/1857)Receiving objects:  69% (1282/1857)Receiving objects:  70% (1300/1857)Receiving objects:  71% (1319/1857)Receiving objects:  72% (1338/1857)Receiving objects:  73% (1356/1857)Receiving objects:  74% (1375/1857)Receiving objects:  75% (1393/1857)Receiving objects:  76% (1412/1857)Receiving objects:  77% (1430/1857)Receiving objects:  78% (1449/1857)Receiving objects:  79% (1468/1857)Receiving objects:  80% (1486/1857)Receiving objects:  81% (1505/1857)Receiving objects:  82% (1523/1857)Receiving objects:  83% (1542/1857)Receiving objects:  84% (1560/1857)Receiving objects:  85% (1579/1857)Receiving objects:  86% (1598/1857)Receiving objects:  87% (1616/1857)Receiving objects:  88% (1635/1857)Receiving objects:  89% (1653/1857)Receiving objects:  90% (1672/1857)Receiving objects:  91% (1690/1857)Receiving objects:  92% (1709/1857)Receiving objects:  93% (1728/1857)Receiving objects:  94% (1746/1857)Receiving objects:  95% (1765/1857)Receiving objects:  96% (1783/1857)Receiving objects:  97% (1802/1857)Receiving objects:  98% (1820/1857)Receiving objects:  99% (1839/1857)Receiving objects: 100% (1857/1857)Receiving objects: 100% (1857/1857), 334.06 KiB | 1.65 MiB/s, done.
+Resolving deltas:   0% (0/837)Resolving deltas:   1% (9/837)Resolving deltas:   2% (17/837)Resolving deltas:   3% (26/837)Resolving deltas:   4% (34/837)Resolving deltas:   5% (42/837)Resolving deltas:   6% (51/837)Resolving deltas:   7% (59/837)Resolving deltas:   8% (67/837)Resolving deltas:   9% (76/837)Resolving deltas:  10% (84/837)Resolving deltas:  11% (93/837)Resolving deltas:  12% (101/837)Resolving deltas:  13% (109/837)Resolving deltas:  14% (118/837)Resolving deltas:  15% (126/837)Resolving deltas:  16% (134/837)Resolving deltas:  17% (143/837)Resolving deltas:  18% (151/837)Resolving deltas:  19% (160/837)Resolving deltas:  20% (168/837)Resolving deltas:  21% (176/837)Resolving deltas:  22% (186/837)Resolving deltas:  23% (193/837)Resolving deltas:  24% (201/837)Resolving deltas:  25% (210/837)Resolving deltas:  26% (218/837)Resolving deltas:  27% (226/837)Resolving deltas:  28% (235/837)Resolving deltas:  29% (243/837)Resolving deltas:  30% (252/837)Resolving deltas:  31% (260/837)Resolving deltas:  32% (268/837)Resolving deltas:  33% (277/837)Resolving deltas:  34% (285/837)Resolving deltas:  35% (293/837)Resolving deltas:  36% (302/837)Resolving deltas:  37% (310/837)Resolving deltas:  38% (319/837)Resolving deltas:  39% (327/837)Resolving deltas:  40% (335/837)Resolving deltas:  41% (344/837)Resolving deltas:  42% (352/837)Resolving deltas:  43% (360/837)Resolving deltas:  44% (369/837)Resolving deltas:  45% (377/837)Resolving deltas:  46% (386/837)Resolving deltas:  47% (394/837)Resolving deltas:  48% (402/837)Resolving deltas:  49% (411/837)Resolving deltas:  50% (419/837)Resolving deltas:  51% (427/837)Resolving deltas:  52% (436/837)Resolving deltas:  53% (444/837)Resolving deltas:  54% (452/837)Resolving deltas:  55% (461/837)Resolving deltas:  56% (469/837)Resolving deltas:  57% (478/837)Resolving deltas:  58% (486/837)Resolving deltas:  59% (494/837)Resolving deltas:  60% (503/837)Resolving deltas:  61% (511/837)Resolving deltas:  62% (519/837)Resolving deltas:  63% (528/837)Resolving deltas:  64% (536/837)Resolving deltas:  65% (545/837)Resolving deltas:  66% (553/837)Resolving deltas:  67% (561/837)Resolving deltas:  68% (570/837)Resolving deltas:  69% (578/837)Resolving deltas:  70% (586/837)Resolving deltas:  71% (595/837)Resolving deltas:  72% (603/837)Resolving deltas:  73% (612/837)Resolving deltas:  74% (620/837)Resolving deltas:  75% (628/837)Resolving deltas:  76% (637/837)Resolving deltas:  77% (645/837)Resolving deltas:  78% (653/837)Resolving deltas:  79% (662/837)Resolving deltas:  80% (670/837)Resolving deltas:  81% (678/837)Resolving deltas:  82% (687/837)Resolving deltas:  83% (695/837)Resolving deltas:  84% (704/837)Resolving deltas:  85% (712/837)Resolving deltas:  86% (720/837)Resolving deltas:  87% (729/837)Resolving deltas:  88% (737/837)Resolving deltas:  89% (745/837)Resolving deltas:  90% (754/837)Resolving deltas:  91% (762/837)Resolving deltas:  92% (771/837)Resolving deltas:  93% (779/837)Resolving deltas:  94% (787/837)Resolving deltas:  95% (796/837)Resolving deltas:  96% (804/837)Resolving deltas:  97% (812/837)Resolving deltas:  98% (821/837)Resolving deltas:  99% (830/837)Resolving deltas: 100% (837/837)Resolving deltas: 100% (837/837), done.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ cd ticgit/
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ git rm[Kemote
+[?2004lorigin
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ git remote -v
+[?2004lorigin	https://github.com/schacon/ticgit (fetch)
+origin	https://github.com/schacon/ticgit (push)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ cd gr[K[K[K[K[Kls
+[?2004lLICENSE_GPL  LICENSE_MIT  README.mkd  Rakefile  TODO  [0m[01;34mbin[0m  [01;34mexamples[0m  [01;34mlib[0m  [01;34mnote[0m  [01;34mspec[0m  ticgit-ng.gemspec
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ lsgit remote -v[K[K[K
+[?2004lorigin
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ [7mgit remote add pb https://github.com/paulboone/ticgit[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit remote add pb https://github.com/paulboone/ticgit
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ git remote add pb https://github.com/paulboone/ticgit[Kls[Kgit remote -v
+[?2004lorigin	https://github.com/schacon/ticgit (fetch)
+origin	https://github.com/schacon/ticgit (push)
+pb	https://github.com/paulboone/ticgit (fetch)
+pb	https://github.com/paulboone/ticgit (push)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ git remote -vadd pb https://github.com/paulboone/ticgit[K-v[K[Kgit d[Keftch pb[1@f
+[?2004lgit: 'feftch' is not a git command. See 'git --help'.
+
+The most similar command is
+	fetch
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ git feftch pb[1P
+[?2004lremote: Enumerating objects: 43, done.[K
+remote: Counting objects:   4% (1/22)[Kremote: Counting objects:   9% (2/22)[Kremote: Counting objects:  13% (3/22)[Kremote: Counting objects:  18% (4/22)[Kremote: Counting objects:  22% (5/22)[Kremote: Counting objects:  27% (6/22)[Kremote: Counting objects:  31% (7/22)[Kremote: Counting objects:  36% (8/22)[Kremote: Counting objects:  40% (9/22)[Kremote: Counting objects:  45% (10/22)[Kremote: Counting objects:  50% (11/22)[Kremote: Counting objects:  54% (12/22)[Kremote: Counting objects:  59% (13/22)[Kremote: Counting objects:  63% (14/22)[Kremote: Counting objects:  68% (15/22)[Kremote: Counting objects:  72% (16/22)[Kremote: Counting objects:  77% (17/22)[Kremote: Counting objects:  81% (18/22)[Kremote: Counting objects:  86% (19/22)[Kremote: Counting objects:  90% (20/22)[Kremote: Counting objects:  95% (21/22)[Kremote: Counting objects: 100% (22/22)[Kremote: Counting objects: 100% (22/22), done.[K
+remote: Total 43 (delta 22), reused 22 (delta 22), pack-reused 21[K
+Unpacking objects:   2% (1/43)Unpacking objects:   4% (2/43)Unpacking objects:   6% (3/43)Unpacking objects:   9% (4/43)Unpacking objects:  11% (5/43)Unpacking objects:  13% (6/43)Unpacking objects:  16% (7/43)Unpacking objects:  18% (8/43)Unpacking objects:  20% (9/43)Unpacking objects:  23% (10/43)Unpacking objects:  25% (11/43)Unpacking objects:  27% (12/43)Unpacking objects:  30% (13/43)Unpacking objects:  32% (14/43)Unpacking objects:  34% (15/43)Unpacking objects:  37% (16/43)Unpacking objects:  39% (17/43)Unpacking objects:  41% (18/43)Unpacking objects:  44% (19/43)Unpacking objects:  46% (20/43)Unpacking objects:  48% (21/43)Unpacking objects:  51% (22/43)Unpacking objects:  53% (23/43)Unpacking objects:  55% (24/43)Unpacking objects:  58% (25/43)Unpacking objects:  60% (26/43)Unpacking objects:  62% (27/43)Unpacking objects:  65% (28/43)Unpacking objects:  67% (29/43)Unpacking objects:  69% (30/43)Unpacking objects:  72% (31/43)Unpacking objects:  74% (32/43)Unpacking objects:  76% (33/43)Unpacking objects:  79% (34/43)Unpacking objects:  81% (35/43)Unpacking objects:  83% (36/43)Unpacking objects:  86% (37/43)Unpacking objects:  88% (38/43)Unpacking objects:  90% (39/43)Unpacking objects:  93% (40/43)Unpacking objects:  95% (41/43)Unpacking objects:  97% (42/43)Unpacking objects: 100% (43/43)Unpacking objects: 100% (43/43), 5.99 KiB | 681.00 KiB/s, done.
+From https://github.com/paulboone/ticgit
+ * [new branch]      master     -> pb/master
+ * [new branch]      ticgit     -> pb/ticgit
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ git fetch pb[K[K<remor[Kte>
+[?2004lbash: syntax error near unexpected token `newline'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ [7mgit push origin master[27mgit push origin master
+[?2004lUsername for 'https://github.com': ^C
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ git push origin master[4Pfetch <remote>pb[K[1@f[C[C[C[C[C[Cremote -v[K[K[K show origin
+[?2004l* remote origin
+  Fetch URL: https://github.com/schacon/ticgit
+  Push  URL: https://github.com/schacon/ticgit
+  HEAD branch: master
+  Remote branches:
+    master tracked
+    ticgit tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ [7mgit remote rename pb paul[27mgit remote rename pb paul
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ git remote
+[?2004lorigin
+paul
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ [7mgit remote remove paul[27mgit remote remove paul
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ git remote remove paul[K
+[?2004lorigin
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ git tag
+[?2004l[?1h=[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/ticgit[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/ticgit[00m$ cs[Kd ..
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git tag
+[?2004l[?1h=[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ [7mgit tag -a v1.4 -m "my version 1.4"[27mgit tag -a v1.4 -m "my version 1.4"
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git tag -a v1.4 -m "my version 1.4"[K
+[?2004l[?1h=v1.4[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ [7mgit show v1.4[27mgit show v1.4
+[?2004l[?1h=[33mtag v1.4[m[m
+Tagger: Nikhil Kakarlapudi <nikhil.kakarlapu@tigeranalytics.com>[m
+Date:   Thu Oct 12 13:12:40 2023 +0530[m
+[m
+my version 1.4[m
+[m
+[33mcommit 466a8a18f5dfbe5ab2e2ee081cff6bea2856e0cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4[m[33m)[m[m
+Author: Nikhil Kakarlapudi <nikhil.kakarlapu@tigeranalytics.com>[m
+Date:   Thu Oct 12 12:32:51 2023 +0530[m
+[m
+    sdjbvio[m
+[m
+[1mdiff --git a/README b/README[m[m
+[1mindex 8d569a2..45b983b 100644[m[m
+[1m--- a/README[m[m
+[1m+++ b/README[m[m
+[36m@@ -1,4 +1 @@[m[m
+[31m-My Project[m[m
+[31m-Hello World[m[m
+[31m-Hello World[m[m
+[31m-testline[m[m
+[32m+[m[32mhi[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ [7mgit tag v1.4-lw[27mgit tag v1.4-lw
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git tag v1.4-lw[2Pshow v1.4[6Ptag
+[?2004l[?1h=v1.4[m
+v1.4-lw[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ [7mgit show v1.4-lw[27mgit show v1.4-lw
+[?2004l[?1h=[33mcommit 466a8a18f5dfbe5ab2e2ee081cff6bea2856e0cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4-lw[m[33m, [m[1;33mtag: v1.4[m[33m)[m[m
+Author: Nikhil Kakarlapudi <nikhil.kakarlapu@tigeranalytics.com>[m
+Date:   Thu Oct 12 12:32:51 2023 +0530[m
+[m
+    sdjbvio[m
+[m
+[1mdiff --git a/README b/README[m[m
+[1mindex 8d569a2..45b983b 100644[m[m
+[1m--- a/README[m[m
+[1m+++ b/README[m[m
+[36m@@ -1,4 +1 @@[m[m
+[31m-My Project[m[m
+[31m-Hello World[m[m
+[31m-Hello World[m[m
+[31m-testline[m[m
+[32m+[m[32mhi[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ [7mgit log --pretty=oneline[27mgit log --pretty=oneline
+[?2004l[?1h=[33m466a8a18f5dfbe5ab2e2ee081cff6bea2856e0cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.4-lw[m[33m, [m[1;33mtag: v1.4[m[33m)[m sdjbvio[m
+[33md7e85c4df3904e6f8ca3890396f569ff2013be30[m git commit -m "initial_commit"[m
+[33m860a09c984488d9323436cbebed6423da0b1e30a[m git commit -m "initail commit"[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ [7mgit push origin v1.5[27mgit push origin v1.5[K4
+[?2004lfatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ gir clone [7mhttps://github.com/nikhilkakarlapudiTA/GIT_turtorials.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/nikhilkakarlapudiTA/GIT_turtorials.git[C[C[C[1P[1@t[C[C[C[C[C[C
+[?2004lCloning into 'GIT_turtorials'...
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Receiving objects:  33% (1/3)Receiving objects:  66% (2/3)Receiving objects: 100% (3/3)Receiving objects: 100% (3/3), done.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git [K[K[K[Kgit status
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    README -> READme[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mGIT_turtorials/[m
+	[31msimplegit-progit/[m
+	[31mticgit/[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ commit -,[Km [1@g[1@i[1@t[1@ [4Pstatus[K[K[K[K[K[Kcommit -m "Renaming Readme"
+[?2004l[master 56da687] Renaming Readme
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename README => READme (100%)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ git push origin main
+[?2004lerror: src refspec main does not match any
+[31merror: failed to push some refs to 'origin'
+[m[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ ls
+[?2004l[0m[01;34mGIT_turtorials[0m  READme  [01;34msimplegit-progit[0m  [01;34mticgit[0m
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail[00m$ cd GIT_turtorials/
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ cd GIT_turtorials/ls[Kgit push origin maincommit -m "Renaming Readme"[11Ppush origin main
+[?2004lUsername for 'https://github.com': nikhil  kakarlapudiTA
+Password for 'https://nikhilkakarlapudiTA@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git/'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git push origin main[2Pcd GIT_turtorials/git push origin main
+[?2004lUsername for 'https://github.com': nikhilkaKA  karlapudiTA
+Password for 'https://nikhilkakarlapudiTA@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git/'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git push origin main[2Pcd GIT_turtorials/git push origin main
+[?2004lUsername for 'https://github.com': nikhilkakarlapudiTA
+Password for 'https://nikhilkakarlapudiTA@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git/'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ ssh -[K[K-keygen
+[?2004lGenerating public/private rsa key pair.
+Enter file in which to save the key (/home/nikhil/.ssh/id_rsa): 
+Created directory '/home/nikhil/.ssh'.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/nikhil/.ssh/id_rsa
+Your public key has been saved in /home/nikhil/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:ddPPSHzmnLFAXut1+YrBJXEfgsCEl4kWU6k2RteYRUs nikhil@TIGER01509
+The key's randomart image is:
++---[RSA 3072]----+
+|       oB+@Eoo.o |
+|       =.X.o+=o.+|
+|      o + ..+o=+*|
+|       = . o =oOB|
+|      o S   o .+*|
+|             o . |
+|            . .  |
+|                 |
+|                 |
++----[SHA256]-----+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ ls
+[?2004lREADME.md
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ cd
+[?2004l[?2004h]0;nikhil@TIGER01509: ~[01;32mnikhil@TIGER01509[00m:[01;34m~[00m$ cd .ssh
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/.ssh[01;32mnikhil@TIGER01509[00m:[01;34m~/.ssh[00m$ cat id_rsa.pub
+[?2004lssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDuiC2yTw/lUIUnJ93Iyr3k5R8nZj/pOeXlttaxhWTNHPsNorROGYRHPDrCuta4/8E3pq8qDgfwogOPDICpOlO65FCDWZClaant+FttGb2Q3clgzkcVq1GaisW8qjUHe2BRq0Oop8XREtUmFLbnv2xX6Fs4lGffqCeNLElVkX2l380HN2oFyK9WHvnCNFdo+bN/r4+6o8fewT+SyQrBzoIS4TMqBMjDtQgi2ndx1CGZ5MMtTRZd4X/m+qHNJOisbLHtyPt1KHOwLwe71k9Zf3myIEztGGJ3VXizvYHJ6FyJdBMESf6JHBakX5yIoMTG/KoUfHzPv5lKuUyWbU4iREuaQmOgBczfpI/hiR9iWLDGJQVujrcJaaXMwahF3Zo/tttTgoNUNDGf9bUzXexUITTHn20pKDFn6CFEXuyfL2atyRaw1bpKEZ6D3cb4+yl459l7tq63ctBRkmQdL8sQOFlZFFAp/NSlz/8IhAuR+R9YDZU1q2r+XqPVzIlYDDky1mk= nikhil@TIGER01509
+[?2004h]0;nikhil@TIGER01509: ~/.ssh[01;32mnikhil@TIGER01509[00m:[01;34m~/.ssh[00m$ cat id_rsa.pub[7Pd .ssh[Klsssh-keygengit push origin main
+[?2004lfatal: not a git repository (or any of the parent directories): .git
+[?2004h]0;nikhil@TIGER01509: ~/.ssh[01;32mnikhil@TIGER01509[00m:[01;34m~/.ssh[00m$ cd ..
+[?2004l[?2004h]0;nikhil@TIGER01509: ~[01;32mnikhil@TIGER01509[00m:[01;34m~[00m$ cd git-tutorail/GIT_turtorials/
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ cd git-tutorail/GIT_turtorials/..[Kgit push origin main
+[?2004lUsername for 'https://github.com': ^Z
+[1]+  Stopped                 git push origin main
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git log
+[?2004l[?1h=[33mcommit af0973823dd39ad0f91490fe57bbd4ef8f53499d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: nikhilkakarlapudiTA <147472145+nikhilkakarlapudiTA@users.noreply.github.com>[m
+Date:   Thu Oct 12 13:37:04 2023 +0530[m
+[m
+    Initial commit[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git clone [7mgit@github.com:nikhilkakarlapudiTA/GIT_turtorials.git[27mgit@github.com:nikhilkakarlapudiTA/GIT_turtorials.git
+[?2004lCloning into 'GIT_turtorials'...
+The authenticity of host 'github.com (20.207.73.82)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Receiving objects:  33% (1/3)Receiving objects:  66% (2/3)Receiving objects: 100% (3/3)Receiving objects: 100% (3/3), done.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git clone git@github.com:nikhilkakarlapudiTA/GIT_turtorials.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clog[Kpush origin maincd git-tutorail/GIT_turtorials/..[Kgit push origin main[6Pcat id_rsa.pub[7Pd .ssh[Klsssh-keygengit push origin main[2Pcd GIT_turtorials/ls[Kgit push origin maincommit -m "Renaming Readme"[Kclone https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush origin v1.4[Klog --pretty=oneline[8Pshow v1.4-lwtag[K v1.4-lw[2Pshow v1.4[6Ptag -a v1.4 -m "my version 1.4"[K[2Pcd ..git tagremote remove paul[K rename pb paul[3Pshow originpush origin master[4Pfetch <remote>pb[K[1@f[C[C[C[C[C[Cremote -vadd pb https://github.com/paulboone/ticgi[Kls[Kgit remote -v[Kcd ticgit/git clone https://github.com/schacon/ticgitstatus[Krestore READme[3Padd READme restore READme[8Pstatusrestore --staged READmestatus[Kcheckout -- READme[7Padd READme [5Pstatusreset HEAD READme[11Pstatus[5Pcd ..git commit --amendlog --pretty="%h - %s" --author='Junio C Hamano' --since="2008-10-01" \ --before="2008-11-01" --no-merges -- t/[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2@   [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [C[C[C[C[C[C[C[C[C[Csince=2.weeks[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpretty=format:"%h %s" --graph graph- %an, %ar : %s"oneline[Kstat[K[1Pp -2[K[K[K[K[K[K[K[Knano abc.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                                             abc.txt                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2d[?12l[?25h[?25l[1;68H(B[0;7m*[119G(B[m[?12l[?25h[2df[?25l[?12l[?25hg[?25l[?12l[?25hd[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: abc.txt                                                                                             [28;28H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;68H(B[0;7m [119G(B[m[28;53H(B[0;7m[ Wrote 1 line ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[2;4H[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git add abc.txt
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   abc.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mGIT_turtorials/[m
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git commit -m "abs file"
+[?2004l[main 70d69a3] abs file
+ Committer: Nikhil Kakarlapudi <nikhil@TIGER01509.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 abc.txt
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git commit -m "abs file"status[Kadd abc.txt[3Pnano[C[C[C[C[C[C[C[Cgit clone git@github.com:nikhilkakarlapudiTA/GIT_turtorials.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clog[Kpush origin maincd git-tutorail/GIT_turtorials/[11Pgit push origin mainlog[Kclone git@github.com:nikhilkakarlapudiTA/GIT_turtorials.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnano abc.txt[K[3@git add[C[C[C[C[C[C[C[C[5Pstatuscommit -m "abs file"[Kgit branch
+[?2004l[?1h=* [32mmain[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branchcommit -m "abs file"status[Kadd abc.txt[3Pnano[C[C[C[C[C[C[C[Cgit clone git@github.com:nikhilkakarlapudiTA/GIT_turtorials.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clog[Kpush origin maincd git-tutorail/GIT_turtorials/[11Pgit push origin main
+[?2004lUsername for 'https://github.com': ^X^Z
+[2]+  Stopped                 git push origin main
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7m git config --global user.name "Your Name"[27m git config --global user.name "Your Name"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksudo apt int[Kstall gh
+[?2004l[sudo] password for nikhil: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+
+No apt package "gh", but there is a snap with that name.
+Try "snap install gh"
+
+[1;31mE: [0mUnable to locate package gh[0m
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ sudo apt install ghgit push origin main[10Pbranchpush origin main
+[?2004lEnumerating objects: 4, done.
+Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects:  50% (1/2)Compressing objects: 100% (2/2)Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 303 bytes | 303.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git
+   af09738..70d69a3  main -> main
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git tag
+[?2004l[?1h=[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git tag -[Kv1.4
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git tag v1.4[K
+[?2004l[?1h=v1.4[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit tag v1.4-lw[27mgit tag v1.4-lw
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git tag v1.4-lw[K
+[?2004l[?1h=v1.4[m
+v1.4-lw[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit show v1.4-lw[27mgit show v1.4-lw
+[?2004l[?1h=[33mcommit 70d69a3cd80a88305aa8064f71e3d2991b536088[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v1.4-lw[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Nikhil Kakarlapudi <nikhil@TIGER01509.tigeranalytics.local>[m
+Date:   Thu Oct 12 14:47:23 2023 +0530[m
+[m
+    abs file[m
+[m
+[1mdiff --git a/abc.txt b/abc.txt[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..000a01d[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/abc.txt[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mfgd[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit log --pretty=oneline[27mgit log --pretty=oneline
+[?2004l[?1h=[33m70d69a3cd80a88305aa8064f71e3d2991b536088[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v1.4-lw[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m abs file[m
+[33maf0973823dd39ad0f91490fe57bbd4ef8f53499d[m Initial commit[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit tag -a v1.2 9fceb02[27mgit tag -a v1.2 9fceb02
+[?2004lfatal: Failed to resolve '9fceb02' as a valid ref.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git show v1.2
+[?2004lfatal: ambiguous argument 'v1.2': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git show v1.2[K4
+[?2004l[?1h=[33mcommit 70d69a3cd80a88305aa8064f71e3d2991b536088[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v1.4-lw[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Nikhil Kakarlapudi <nikhil@TIGER01509.tigeranalytics.local>[m
+Date:   Thu Oct 12 14:47:23 2023 +0530[m
+[m
+    abs file[m
+[m
+[1mdiff --git a/abc.txt b/abc.txt[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..000a01d[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/abc.txt[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mfgd[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git push origin v1.4
+[?2004lTotal 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git
+ * [new tag]         v1.4 -> v1.4
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git push origin v1.4[K[K[K[K--tags
+[?2004lTotal 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git
+ * [new tag]         v1.4-lw -> v1.4-lw
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit tag -d v1.4-lw[27mgit tag -d v1.4-lw
+[?2004lDeleted tag 'v1.4-lw' (was 70d69a3)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit push origin :refs/tags/v1.4-lw[27mgit push origin :refs/tags/v1.4-lw
+[?2004lTo https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git
+ - [deleted]         v1.4-lw
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout v2.0.0[27mgit checkout v2.0.0[C[K[K[K[K[K1.4
+[?2004lNote: switching to 'v1.4'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 70d69a3 abs file
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout -b version2 v2.0.0[27mgit checkout -b version2 v2.0.0
+[?2004lfatal: 'v2.0.0' is not a commit and a branch 'version2' cannot be created from it
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit config --global alias.co checkout[27mgit config --global alias.co checkout
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit config --global alias.br branch[27mgit config --global alias.br branch
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit config --global alias.ci commit[27mgit config --global alias.ci commit
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit config --global alias.st status[27mgit config --global alias.st status
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit config --global alias.unstage 'reset HEAD --'[27mgit config --global alias.unstage 'reset HEAD --'
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit last[27mgit last
+[?2004lgit: 'last' is not a git command. See 'git --help'.
+
+The most similar commands are
+	blame
+	lfs
+	reset
+	stash
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit last[27m[1Pgit las[K[K[K[K[K[K[K[7mgit config --global alias.last 'log -1 HEAD'[27mgit config --global alias.last 'log -1 HEAD'
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git config --global alias.last 'log -1 HEAD'last[K
+[?2004l[?1h=[33mcommit 70d69a3cd80a88305aa8064f71e3d2991b536088[m[33m ([m[1;36mHEAD[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m[m
+Author: Nikhil Kakarlapudi <nikhil@TIGER01509.tigeranalytics.local>[m
+Date:   Thu Oct 12 14:47:23 2023 +0530[m
+[m
+    abs file[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit config --global alias.visual '!gitk'[27mgit config --global alias.visual '!gitk'
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit config --global alias.visual '!gitk'[27mgit config --global alias.visual '!gitk'
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit config --global alias.visual '!gitk'[27mgit config --global alias.visual '!gitk'[7mgit add README test.rb LICENSE[27m[1Pgit add README test.rb LICENS[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mgit add README test.rb LICENSE[27mgit add README test.rb LICENSE
+[?2004lfatal: pathspec 'README' did not match any files
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git a[K[K[K[K[Kgit add README test.rb LICENSE[C[1P[1P[1@m[1@e
+[?2004lfatal: pathspec 'READme' did not match any files
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ nano README
+[?2004l[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                                             README                                                       [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[2d[?12l[?25h[?25l[1;67H(B[0;7m*[119G(B[m[?12l[?25h[2d"[?25l[?12l[?25hM[?25l[?12l[?25hB[?25l[?12l[?25hD[?25l[?12l[?25hS[?25l[?12l[?25hC[?25l[?12l[?25hA[?25l[?12l[?25hJ[?25l[?12l[?25hK[?25l[?12l[?25h"[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format       [29;61H(B[0;7mM-A(B[m Append[16X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format         [61G(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile Name to Write: README                                                                                              [28;27H(B[m[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;67H(B[0;7m [119G(B[m[28;53H(B[0;7m[ Wrote 1 line ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo [106G(B[0;7mM-6(B[m Copy[?12l[?25h[2;11H[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ GIT AD D[K[K[K[K[K[K[K[Kgit add README
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit commit -m 'Initial commit'[27mgit commit -m 'Initial commit'
+[?2004l[detached HEAD f370813] Initial commit
+ Committer: Nikhil Kakarlapudi <nikhil@TIGER01509.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit branch testing[27mgit branch testing
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git log
+[?2004l[?1h=[33mcommit f370813b2755d892b9ee6c5200a60e9c9ab7ef6b[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mtesting[m[33m)[m[m
+Author: Nikhil Kakarlapudi <nikhil@TIGER01509.tigeranalytics.local>[m
+Date:   Thu Oct 12 15:52:01 2023 +0530[m
+[m
+    Initial commit[m
+[m
+[33mcommit 70d69a3cd80a88305aa8064f71e3d2991b536088[m[33m ([m[1;33mtag: v1.4[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m[m
+Author: Nikhil Kakarlapudi <nikhil@TIGER01509.tigeranalytics.local>[m
+Date:   Thu Oct 12 14:47:23 2023 +0530[m
+[m
+    abs file[m
+[m
+[33mcommit af0973823dd39ad0f91490fe57bbd4ef8f53499d[m[m
+Author: nikhilkakarlapudiTA <147472145+nikhilkakarlapudiTA@users.noreply.github.com>[m
+Date:   Thu Oct 12 13:37:04 2023 +0530[m
+[m
+    Initial commit[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ q[7mgit log --oneline --decorate[27mgit log --oneline --decorate[1P
+[?2004l[?1h=[33mf370813[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mtesting[m[33m)[m Initial commit[m
+[33m70d69a3[m[33m ([m[1;33mtag: v1.4[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m abs file[m
+[33maf09738[m Initial commit[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout testing[27mgit checkout testing
+[?2004lSwitched to branch 'testing'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit commit -a -m 'Make a change'[27mgit commit -a -m 'Make a change'
+[?2004lOn branch testing
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mGIT_turtorials/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ echo "hello" >> README
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ echo "hello" >> README[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kadd [K[K[K[Kgit add README
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git add README[8@echo "hello" >>[C[C[C[C[C[C[Cgit commit -a -m 'Make a change'
+[?2004l[testing 0abfbe8] Make a change
+ Committer: Nikhil Kakarlapudi <nikhil@TIGER01509.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git commit -a -m 'Make a change'[18Padd README[8@echo "hello" >>[C[C[C[C[C[C[Cgit commit -a -m 'Make a change'[12Pheckout testing[K[K[K[K[K[K[Kmaster
+[?2004lerror: pathspec 'master' did not match any file(s) known to git
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git checkout master[K[K[K[Kin
+[?2004lSwitched to branch 'main'
+Your branch is up to date with 'origin/main'.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git checkout mainsterommit -a -m 'Make a change'
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mGIT_turtorials/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ add=[K[K[K[Kgit commit -a -m 'Make a change'[15Pheckout mainsterommit -a -m 'Make a change'[18Padd README
+[?2004lfatal: pathspec 'README' did not match any files
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git add READMEcommit -a -m 'Make a change'
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mGIT_turtorials/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit log --oneline --decorate --graph --all[27mgit log --oneline --decorate --graph --all
+[?2004l[?1h=* [33m0abfbe8[m[33m ([m[1;32mtesting[m[33m)[m Make a change[m
+* [33mf370813[m Initial commit[m
+* [33m70d69a3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m abs file[m
+* [33maf09738[m Initial commit[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit log --oneline --decorate --graph --all[27mgit log --oneline --decorate --graph --all
+[?2004l[?1h=* [33m0abfbe8[m[33m ([m[1;32mtesting[m[33m)[m Make a change[m
+* [33mf370813[m Initial commit[m
+* [33m70d69a3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m abs file[m
+* [33maf09738[m Initial commit[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout -b iss53[27mgit checkout -b iss53
+[?2004lSwitched to a new branch 'iss53'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7m$ git commit -a -m 'Create new footer [issue 53]'[27m$ git commit -a -m 'Create new footer [issue 53]'
+[?2004l$: command not found
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout master[27mgit checkout master
+[?2004lerror: pathspec 'master' did not match any file(s) known to git
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git checkout master[K[K[K[Kin
+[?2004lSwitched to branch 'main'
+Your branch is up to date with 'origin/main'.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout -b hotfix[27mgit checkout -b hotfix
+[?2004lSwitched to a new branch 'hotfix'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit commit -a -m 'Fix broken email address'[27mgit commit -a -m 'Fix broken email address'
+[?2004lOn branch hotfix
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mGIT_turtorials/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout master[27mgit checkout master
+[?2004lerror: pathspec 'master' did not match any file(s) known to git
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git checkout masterommit -a -m 'Fix broken email address'[21Pheckout -b hotfix[5Pmain
+[?2004lSwitched to branch 'main'
+Your branch is up to date with 'origin/main'.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit merge hotfix[27mgit merge hotfix
+[?2004lAlready up to date.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit branch -d hotfix[27mgit branch -d hotfix
+[?2004lDeleted branch hotfix (was 70d69a3).
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout iss53[27mgit checkout iss53
+[?2004lSwitched to branch 'iss53'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit commit -a -m 'Finish the new footer [issue 53]'[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -a -m 'Finish the new footer [issue 53]'
+[?2004lOn branch iss53
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mGIT_turtorials/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout master[27mgit checkout master
+[?2004lerror: pathspec 'master' did not match any file(s) known to git
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git checkout masterommit -a -m 'Finish the new footer [issue 53]'heckout iss53[Kbranch -d hotfix[4Pmerge[C[C[C[C[C[C[Ccheckout mainster[2Pin
+[?2004lSwitched to branch 'main'
+Your branch is up to date with 'origin/main'.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit merge iss53[27mgit merge iss53
+[?2004lAlready up to date.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit branch -d iss53[27mgit branch -d iss53
+[?2004lDeleted branch iss53 (was 70d69a3).
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit merge iss53[27mgit merge iss53
+[?2004lmerge: iss53 - not something we can merge
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit status[27mgit status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mGIT_turtorials/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit mergetool[27mgit mergetool
+[?2004l
+This message is displayed because 'merge.tool' is not configured.
+See 'git mergetool --tool-help' or 'git help config' for more details.
+'git mergetool' will now attempt to use one of the following tools:
+opendiff kdiff3 tkdiff xxdiff meld tortoisemerge gvimdiff diffuse diffmerge ecmerge p4merge araxis bc codecompare smerge emerge vimdiff nvimdiff
+No files need merging
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git mergetool[3Pstatus
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mGIT_turtorials/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git ba[Kranch
+[?2004l[?1h=* [32mmain[m[m
+  testing[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branch -v
+[?2004l[?1h=* [32mmain   [m 70d69a3 abs file[m
+  testing[m 0abfbe8 Make a change[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branch -v[K-merged
+[?2004l[?1h=* [32mmain[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branch --mergedv[K-merged[C[C[Cnmergedomerged-merged
+[?2004l[?1h=  testing[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit branch -d testing[27mgit branch -d testing
+[?2004lerror: The branch 'testing' is not fully merged.
+If you are sure you want to delete it, run 'git branch -D testing'.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branchc -all
+[?2004lgit: 'branchc' is not a git command. See 'git --help'.
+
+The most similar command is
+	branch
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branchc -all[C[1P -all
+[?2004lerror: did you mean `--all` (with two dashes)?
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branch -all-all
+[?2004l[?1h=* [32mmain[m[m
+  testing[m[m
+  [31mremotes/origin/HEAD[m -> origin/main[m
+  [31mremotes/origin/main[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit push origin --delete bad-branch-name[27mgit push origin --delete bad-branch-name
+[?2004lerror: unable to delete 'bad-branch-name': remote ref does not exist
+[31merror: failed to push some refs to 'https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git'
+[m[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit branch --move master main[27mgit branch --move master main[C[1P main[1P main[1P main[1P maini mainn main[C[C[C[C[C[K[Kster
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit push --set-upstream origin main[27mgit push --set-upstream origin main
+[?2004lerror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git'
+[m[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit push origin --delete master[27mgit push origin --delete master
+[?2004lerror: unable to delete 'master': remote ref does not exist
+[31merror: failed to push some refs to 'https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git'
+[m[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git push origin --delete master[K[K[K[Kin
+[?2004lTo https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git
+ [31m! [remote rejected][m main (refusing to delete the current branch: refs/heads/main)
+[31merror: failed to push some refs to 'https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git'
+[m[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branch -al[K[Kal[K[K-la[K[Kall
+[?2004l[?1h=* [32mmaster[m[m
+  testing[m[m
+  [31mremotes/origin/HEAD[m -> origin/main[m
+  [31mremotes/origin/main[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branch --allpush origin --delete mainster
+[?2004lerror: unable to delete 'master': remote ref does not exist
+[31merror: failed to push some refs to 'https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git'
+[m[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git remote
+[?2004lorigin
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branch
+[?2004l[?1h=* [32mmaster[m[m
+  testing[m[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git bt[Kranch serverfix
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit push origin serverfix[27mgit push origin serverfix
+[?2004lTotal 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'serverfix' on GitHub by visiting:[K
+remote:      https://github.com/nikhilkakarlapudiTA/GIT_turtorials/pull/new/serverfix[K
+remote: 
+To https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git
+ * [new branch]      serverfix -> serverfix
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit fetch origi[27mgit fetch origin
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git fetch origin
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout -b serverfix origin/serverfix[27mgit checkout -b serverfix origin/serverfix
+[?2004lfatal: A branch named 'serverfix' already exists.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout --track origin/serverfix[27mgit checkout --track origin/serverfix
+[?2004lfatal: A branch named 'serverfix' already exists.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout serverfix[27mgit checkout serverfix
+[?2004lSwitched to branch 'serverfix'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout serverfix[27mgit checkout serverfix[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mgit checkout -b sf origin/serverfix[27mgit checkout -b sf origin/serverfix
+[?2004lBranch 'sf' set up to track remote branch 'serverfix' from 'origin'.
+Switched to a new branch 'sf'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7m$ git branch -u origin/serverfix[27m$ git branch -u origin/serverfix
+[?2004l$: command not found
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit branch -vv[27mgit branch -vv
+[?2004l[?1h=  master   [m 70d69a3 [[34morigin/main[m] abs file[m
+  serverfix[m 70d69a3 abs file[m
+* [32msf       [m 70d69a3 [[34morigin/serverfix[m] abs file[m
+  testing  [m 0abfbe8 Make a change[m
+[K[?1l>[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit push origin --delete serverfix[27mgit push origin --delete serverfix
+[?2004lTo https://github.com/nikhilkakarlapudiTA/GIT_turtorials.git
+ - [deleted]         serverfix
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout experiment[27mgit checkout experiment-experimentbexperiment experiment
+[?2004lSwitched to a new branch 'experiment'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit rebase master[27mgit rebase master
+[?2004lCurrent branch experiment is up to date.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git rebase mastercheckout -b experiment[K[K[K[K[K[K[K[K[K[K[K[K[Kmaster
+[?2004lSwitched to branch 'master'
+Your branch is up to date with 'origin/main'.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git merge w[Kexperimr[Kent
+[?2004lAlready up to date.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git merge experiment[1Pcheckout master[2Prebase[C[C[C[C[C[C[C server
+[?2004lfatal: no such branch/commit 'server'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit rebase --onto master server client[27mgit rebase --onto master server client
+[?2004lfatal: invalid upstream 'server'
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git be[Kranch server
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git brANCH CLIE[K[K[K[K[K[K[K[K[K[Kranch client
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit rebase --onto master server client[27mgit rebase --onto master server client
+[?2004lCurrent branch client is up to date.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ gi t[K[Kt checj[Kkout master
+[?2004lSwitched to branch 'master'
+Your branch is up to date with 'origin/main'.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git mergre cliwe[K[Kent[1P
+[?2004lAlready up to date.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit rebase master server[27mgit rebase master server
+[?2004lCurrent branch server is up to date.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit checkout master[27mgit checkout master
+[?2004lSwitched to branch 'master'
+Your branch is up to date with 'origin/main'.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit merge server[27mgit merge server
+[?2004lAlready up to date.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mgit branch -d client[27mgit branch -d client
+[?2004lDeleted branch client (was 70d69a3).
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git branch -d client[K[K[K[K[K[Kservr[Ker
+[?2004lDeleted branch server (was 70d69a3).
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ git gui
+[?2004lfatal: 'gui' appears to be a git command, but we were not
+able to execute it. Maybe git-gui is broken?
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ quir[K[K[K[Kexit
+[?2004lexit
+There are stopped jobs.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mmkdir -p ~/miniconda3[27mmkdir -p ~/miniconda3
+[?2004l[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ [7mwget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64[27m[7m.[27m[7msh -O ~/miniconda3/miniconda.sh[27m[A]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+[?2004l'--2023-10-12 16:39:38--  https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+Resolving repo.anaconda.com (repo.anaconda.com)... 104.16.131.3, 104.16.130.3, 2606:4700::6810:8203, ...
+Connecting to repo.anaconda.com (repo.anaconda.com)|104.16.131.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103219356 (98M) [application/x-sh]
+Saving to: ‘/home/nikhil/miniconda3/miniconda.sh’
+
+               /home/nikhil/m   0%[                                                  ]       0  --.-KB/s                             /home/nikhil/mi   1%[                                                  ]   1.54M  7.69MB/s                            /home/nikhil/min   3%[>                                                 ]   3.72M  9.29MB/s                           /home/nikhil/mini   6%[==>                                               ]   6.74M  11.2MB/s                          /home/nikhil/minic  10%[====>                                             ]  10.26M  12.8MB/s                         /home/nikhil/minico  13%[=====>                                            ]  13.74M  13.7MB/s                        /home/nikhil/minicon  18%[========>                                         ]  18.19M  15.1MB/s                       /home/nikhil/minicond  23%[==========>                                       ]  23.27M  16.6MB/s                      /home/nikhil/miniconda  29%[=============>                                    ]  28.55M  17.8MB/s                     /home/nikhil/miniconda3  36%[=================>                                ]  35.51M  19.7MB/s                    /home/nikhil/miniconda3/  39%[==================>                               ]  38.66M  17.7MB/s                   /home/nikhil/miniconda3/m  46%[======================>                           ]  46.02M  19.3MB/s                  /home/nikhil/miniconda3/mi  57%[===========================>                      ]  57.02M  22.0MB/s                 /home/nikhil/miniconda3/min  62%[==============================>                   ]  61.12M  19.2MB/s    eta 2s      /home/nikhil/miniconda3/mini  71%[==================================>               ]  70.74M  20.9MB/s    eta 2s     /home/nikhil/miniconda3/minic  85%[=========================================>        ]  83.79M  23.3MB/s    eta 2s     home/nikhil/miniconda3/minico  98%[================================================> ]  96.47M  25.5MB/s    eta 2s     /home/nikhil/miniconda3/minic 100%[=================================================>]  98.44M  26.5MB/s    in 3.8s    
+
+2023-10-12 16:39:42 (25.7 MB/s) - ‘/home/nikhil/miniconda3/miniconda.sh’ saved [103219356/103219356]
+
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ '[K[7mbash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+[?2004l'PREFIX=/home/nikhil/miniconda3
+Unpacking payload ...
+  0%|                                                                                            | 0/70 [00:00<?, ?it/s]Extracting : tqdm-4.65.0-py311h92b7b1e_0.conda:   0%|                                            | 0/70 [00:00<?, ?it/s]Extracting : icu-58.2-he6710b0_3.conda:   1%|▋                                           | 1/70 [00:00<00:28,  2.45it/s]Extracting : icu-58.2-he6710b0_3.conda:   3%|█▎                                          | 2/70 [00:00<00:13,  4.90it/s]Extracting : toolz-0.12.0-py311h06a4308_0.conda:   3%|█                                  | 2/70 [00:00<00:13,  4.90it/s]Extracting : tzdata-2023c-h04d1e81_0.conda:   4%|█▋                                      | 3/70 [00:00<00:13,  4.90it/s]Extracting : pysocks-1.7.1-py311h06a4308_0.conda:   6%|█▉                                | 4/70 [00:00<00:13,  4.90it/s]Extracting : yaml-cpp-0.7.0-h295c915_1.conda:   7%|██▋                                   | 5/70 [00:00<00:13,  4.90it/s]Extracting : jsonpointer-2.1-pyhd3eb1b0_0.conda:   9%|███                                | 6/70 [00:00<00:13,  4.90it/s]Extracting : brotlipy-0.7.0-py311h5eee18b_1002.conda:  10%|███                           | 7/70 [00:00<00:12,  4.90it/s]Extracting : charset-normalizer-2.0.4-pyhd3eb1b0_0.conda:  11%|██▉                       | 8/70 [00:00<00:12,  4.90it/s]Extracting : libssh2-1.10.0-hdbd6064_2.conda:  13%|████▉                                 | 9/70 [00:00<00:12,  4.90it/s]Extracting : libgcc-ng-11.2.0-h1234567_1.conda:  14%|█████                              | 10/70 [00:00<00:12,  4.90it/s]Extracting : pcre2-10.37-he7ceb23_1.conda:  16%|██████▎                                 | 11/70 [00:00<00:12,  4.90it/s]Extracting : conda-23.5.2-py311h06a4308_0.conda:  17%|█████▊                            | 12/70 [00:00<00:11,  4.90it/s]Extracting : libuuid-1.41.5-h5eee18b_0.conda:  19%|██████▊                              | 13/70 [00:00<00:11,  4.90it/s]Extracting : requests-2.29.0-py311h06a4308_0.conda:  20%|██████▏                        | 14/70 [00:00<00:11,  4.90it/s]Extracting : ld_impl_linux-64-2.38-h1181459_1.conda:  21%|██████▍                       | 15/70 [00:00<00:11,  4.90it/s]Extracting : pybind11-abi-4-hd3eb1b0_1.conda:  23%|████████▍                            | 16/70 [00:00<00:11,  4.90it/s]Extracting : conda-libmamba-solver-23.5.0-py311h06a4308_0.conda:  24%|████▎             | 17/70 [00:00<00:10,  4.90it/s]Extracting : cryptography-39.0.1-py311h9ce1e76_2.conda:  26%|██████▉                    | 18/70 [00:00<00:10,  4.90it/s]Extracting : zstd-1.5.5-hc292b87_0.conda:  27%|███████████▏                             | 19/70 [00:00<00:10,  4.90it/s]Extracting : libxml2-2.10.3-hcbfbd50_0.conda:  29%|██████████▌                          | 20/70 [00:00<00:10,  4.90it/s]Extracting : pluggy-1.0.0-py311h06a4308_1.conda:  30%|██████████▏                       | 21/70 [00:00<00:10,  4.90it/s]Extracting : pycosat-0.6.4-py311h5eee18b_0.conda:  31%|██████████▎                      | 22/70 [00:00<00:09,  4.90it/s]Extracting : sqlite-3.41.2-h5eee18b_0.conda:  33%|████████████▍                         | 23/70 [00:00<00:09,  4.90it/s]Extracting : cffi-1.15.1-py311h5eee18b_3.conda:  34%|████████████                       | 24/70 [00:00<00:09,  4.90it/s]Extracting : libffi-3.4.4-h6a678d5_0.conda:  36%|█████████████▉                         | 25/70 [00:00<00:09,  4.90it/s]Extracting : pip-23.1.2-py311h06a4308_0.conda:  37%|█████████████▎                      | 26/70 [00:00<00:08,  4.90it/s]Extracting : pip-23.1.2-py311h06a4308_0.conda:  39%|█████████████▉                      | 27/70 [00:00<00:00, 63.38it/s]Extracting : libmambapy-1.4.1-py311h2dafd23_1.conda:  39%|███████████▌                  | 27/70 [00:00<00:00, 63.38it/s]Extracting : libstdcxx-ng-11.2.0-h1234567_1.conda:  40%|████████████▊                   | 28/70 [00:00<00:00, 63.38it/s]Extracting : fmt-9.1.0-hdb19cb5_0.conda:  41%|█████████████████▍                        | 29/70 [00:00<00:00, 63.38it/s]Extracting : c-ares-1.19.0-h5eee18b_0.conda:  43%|████████████████▎                     | 30/70 [00:00<00:00, 63.38it/s]Extracting : libsolv-0.7.22-he621ea3_0.conda:  44%|████████████████▍                    | 31/70 [00:00<00:00, 63.38it/s]Extracting : xz-5.4.2-h5eee18b_0.conda:  46%|███████████████████▋                       | 32/70 [00:00<00:00, 63.38it/s]Extracting : urllib3-1.26.16-py311h06a4308_0.conda:  47%|██████████████▌                | 33/70 [00:00<00:00, 63.38it/s]Extracting : certifi-2023.5.7-py311h06a4308_0.conda:  49%|██████████████▌               | 34/70 [00:00<00:00, 63.38it/s]Extracting : libedit-3.1.20221030-h5eee18b_0.conda:  50%|███████████████▌               | 35/70 [00:00<00:00, 63.38it/s]Extracting : libgomp-11.2.0-h1234567_1.conda:  51%|███████████████████                  | 36/70 [00:00<00:00, 63.38it/s]Extracting : reproc-14.2.4-h295c915_1.conda:  53%|████████████████████                  | 37/70 [00:00<00:00, 63.38it/s]Extracting : _libgcc_mutex-0.1-main.conda:  54%|█████████████████████▋                  | 38/70 [00:00<00:00, 63.38it/s]Extracting : bzip2-1.0.8-h7b6447c_0.conda:  56%|██████████████████████▎                 | 39/70 [00:00<00:00, 63.38it/s]Extracting : pyopenssl-23.0.0-py311h06a4308_0.conda:  57%|█████████████████▏            | 40/70 [00:00<00:00, 63.38it/s]Extracting : wheel-0.38.4-py311h06a4308_0.conda:  59%|███████████████████▉              | 41/70 [00:00<00:00, 63.38it/s]Extracting : jsonpatch-1.32-pyhd3eb1b0_0.conda:  60%|█████████████████████              | 42/70 [00:00<00:00, 63.38it/s]Extracting : readline-8.2-h5eee18b_0.conda:  61%|███████████████████████▉               | 43/70 [00:00<00:00, 63.38it/s]Extracting : pycparser-2.21-pyhd3eb1b0_0.conda:  63%|██████████████████████             | 44/70 [00:00<00:00, 63.38it/s]Extracting : openssl-3.0.9-h7f8727e_0.conda:  64%|████████████████████████▍             | 45/70 [00:00<00:00, 63.38it/s]Extracting : conda-package-handling-2.1.0-py311h06a4308_0.conda:  66%|███████████▊      | 46/70 [00:00<00:00, 63.38it/s]Extracting : six-1.16.0-pyhd3eb1b0_1.conda:  67%|██████████████████████████▏            | 47/70 [00:00<00:00, 63.38it/s]Extracting : libnghttp2-1.52.0-h2d74bed_1.conda:  69%|███████████████████████▎          | 48/70 [00:00<00:00, 63.38it/s]Extracting : packaging-23.0-py311h06a4308_0.conda:  70%|██████████████████████▍         | 49/70 [00:00<00:00, 63.38it/s]Extracting : libmamba-1.4.1-h2dafd23_1.conda:  71%|██████████████████████████▍          | 50/70 [00:00<00:00, 63.38it/s]Extracting : ruamel.yaml-0.17.21-py311h5eee18b_0.conda:  73%|███████████████████▋       | 51/70 [00:00<00:00, 63.38it/s]Extracting : zstandard-0.19.0-py311h5eee18b_0.conda:  74%|██████████████████████▎       | 52/70 [00:00<00:00, 63.38it/s]Extracting : idna-3.4-py311h06a4308_0.conda:  76%|████████████████████████████▊         | 53/70 [00:00<00:00, 63.38it/s]Extracting : reproc-cpp-14.2.4-h295c915_1.conda:  77%|██████████████████████████▏       | 54/70 [00:00<00:00, 63.38it/s]Extracting : conda-package-streaming-0.8.0-py311h06a4308_0.conda:  79%|█████████████▎   | 55/70 [00:00<00:00, 63.38it/s]Extracting : setuptools-67.8.0-py311h06a4308_0.conda:  80%|███████████████████████▏     | 56/70 [00:00<00:00, 63.38it/s]Extracting : python-3.11.4-h955ad1f_0.conda:  81%|██████████████████████████████▉       | 57/70 [00:01<00:00, 63.38it/s]Extracting : python-3.11.4-h955ad1f_0.conda:  83%|███████████████████████████████▍      | 58/70 [00:01<00:00, 63.23it/s]Extracting : lz4-c-1.9.4-h6a678d5_0.conda:  83%|█████████████████████████████████▏      | 58/70 [00:01<00:00, 63.23it/s]Extracting : tk-8.6.12-h1ccaba5_0.conda:  84%|███████████████████████████████████▍      | 59/70 [00:01<00:00, 63.23it/s]Extracting : zlib-1.2.13-h5eee18b_0.conda:  86%|██████████████████████████████████▎     | 60/70 [00:01<00:00, 63.23it/s]Extracting : _openmp_mutex-5.1-1_gnu.conda:  87%|█████████████████████████████████▉     | 61/70 [00:01<00:00, 63.23it/s]Extracting : krb5-1.20.1-h143b758_1.conda:  89%|███████████████████████████████████▍    | 62/70 [00:01<00:00, 63.23it/s]Extracting : boltons-23.0.0-py311h06a4308_0.conda:  90%|████████████████████████████▊   | 63/70 [00:01<00:00, 63.23it/s]Extracting : libcurl-8.1.1-h251f7ec_1.conda:  91%|██████████████████████████████████▋   | 64/70 [00:01<00:00, 63.23it/s]Extracting : conda-content-trust-0.1.3-py311h06a4308_0.conda:  93%|███████████████████▌ | 65/70 [00:01<00:00, 63.23it/s]Extracting : libarchive-3.6.2-h6ac8c49_2.conda:  94%|█████████████████████████████████  | 66/70 [00:01<00:00, 63.23it/s]Extracting : ncurses-6.4-h6a678d5_0.conda:  96%|██████████████████████████████████████▎ | 67/70 [00:01<00:00, 63.23it/s]Extracting : ca-certificates-2023.05.30-h06a4308_0.conda:  97%|████████████████████████▎| 68/70 [00:01<00:00, 63.23it/s]Extracting : libev-4.33-h7f8727e_1.conda:  99%|████████████████████████████████████████▍| 69/70 [00:01<00:00, 63.23it/s]                                                                                                                        
+Installing base environment...
+
+
+Downloading and Extracting Packages
+
+
+Downloading and Extracting Packages
+
+Preparing transaction: - \ | done
+Executing transaction: - \ | / - \ | / - \ | / - \ | done
+installation finished.
+[?2004h]0;nikhil@TIGER01509: ~/git-tutorail/GIT_turtorials[01;32mnikhil@TIGER01509[00m:[01;34m~/git-tutorail/GIT_turtorials[00m$ '[Kcd
+[?2004l[?2004h]0;nikhil@TIGER01509: ~[01;32mnikhil@TIGER01509[00m:[01;34m~[00m$ [7mmkdir -p ~/miniconda3[27mmkdir -p ~/miniconda3
+[?2004l[?2004h]0;nikhil@TIGER01509: ~[01;32mnikhil@TIGER01509[00m:[01;34m~[00m$ [7mwget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/minicond[27m[7ma[27m[7m.sh[27m[A]0;nikhil@TIGER01509: ~[01;32mnikhil@TIGER01509[00m:[01;34m~[00m$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+[?2004l--2023-10-12 16:40:17--  https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+Resolving repo.anaconda.com (repo.anaconda.com)... 104.16.131.3, 104.16.130.3, 2606:4700::6810:8203, ...
+Connecting to repo.anaconda.com (repo.anaconda.com)|104.16.131.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103219356 (98M) [application/x-sh]
+Saving to: ‘/home/nikhil/miniconda3/miniconda.sh’
+
+               /home/nikhil/m   0%[                                                  ]       0  --.-KB/s                             /home/nikhil/mi   5%[=>                                                ]   4.93M  24.6MB/s                            /home/nikhil/min  12%[=====>                                            ]  12.55M  31.3MB/s                           /home/nikhil/mini  21%[=========>                                        ]  21.29M  35.3MB/s                          /home/nikhil/minic  32%[===============>                                  ]  31.91M  39.7MB/s                         /home/nikhil/minico  42%[====================>                             ]  41.44M  40.9MB/s                        /home/nikhil/minicon  53%[=========================>                        ]  52.24M  43.0MB/s                       /home/nikhil/minicond  58%[============================>                     ]  57.66M  34.6MB/s                      /home/nikhil/miniconda  68%[=================================>                ]  67.30M  36.1MB/s                     /home/nikhil/miniconda3  80%[=======================================>          ]  79.62M  38.5MB/s                    /home/nikhil/miniconda3/  93%[=============================================>    ]  91.72M  40.4MB/s               /home/nikhil/miniconda3/minic 100%[=================================================>]  98.44M  41.2MB/s    in 2.4s    
+
+2023-10-12 16:40:20 (41.2 MB/s) - ‘/home/nikhil/miniconda3/miniconda.sh’ saved [103219356/103219356]
+
+[?2004h]0;nikhil@TIGER01509: ~[01;32mnikhil@TIGER01509[00m:[01;34m~[00m$ [7mbash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+[?2004lPREFIX=/home/nikhil/miniconda3
+Unpacking payload ...
+  0%|                                                                                            | 0/70 [00:00<?, ?it/s]Extracting : tqdm-4.65.0-py311h92b7b1e_0.conda:   0%|                                            | 0/70 [00:00<?, ?it/s]Extracting : icu-58.2-he6710b0_3.conda:   1%|▋                                           | 1/70 [00:00<00:34,  2.01it/s]Extracting : icu-58.2-he6710b0_3.conda:   3%|█▎                                          | 2/70 [00:00<00:16,  4.02it/s]Extracting : toolz-0.12.0-py311h06a4308_0.conda:   3%|█                                  | 2/70 [00:00<00:16,  4.02it/s]Extracting : tzdata-2023c-h04d1e81_0.conda:   4%|█▋                                      | 3/70 [00:00<00:16,  4.02it/s]Extracting : pysocks-1.7.1-py311h06a4308_0.conda:   6%|█▉                                | 4/70 [00:00<00:16,  4.02it/s]Extracting : yaml-cpp-0.7.0-h295c915_1.conda:   7%|██▋                                   | 5/70 [00:00<00:16,  4.02it/s]Extracting : jsonpointer-2.1-pyhd3eb1b0_0.conda:   9%|███                                | 6/70 [00:00<00:15,  4.02it/s]Extracting : brotlipy-0.7.0-py311h5eee18b_1002.conda:  10%|███                           | 7/70 [00:00<00:15,  4.02it/s]Extracting : charset-normalizer-2.0.4-pyhd3eb1b0_0.conda:  11%|██▉                       | 8/70 [00:00<00:15,  4.02it/s]Extracting : libssh2-1.10.0-hdbd6064_2.conda:  13%|████▉                                 | 9/70 [00:00<00:15,  4.02it/s]Extracting : libgcc-ng-11.2.0-h1234567_1.conda:  14%|█████                              | 10/70 [00:00<00:14,  4.02it/s]Extracting : pcre2-10.37-he7ceb23_1.conda:  16%|██████▎                                 | 11/70 [00:00<00:14,  4.02it/s]Extracting : conda-23.5.2-py311h06a4308_0.conda:  17%|█████▊                            | 12/70 [00:00<00:14,  4.02it/s]Extracting : libuuid-1.41.5-h5eee18b_0.conda:  19%|██████▊                              | 13/70 [00:00<00:14,  4.02it/s]Extracting : requests-2.29.0-py311h06a4308_0.conda:  20%|██████▏                        | 14/70 [00:00<00:13,  4.02it/s]Extracting : ld_impl_linux-64-2.38-h1181459_1.conda:  21%|██████▍                       | 15/70 [00:00<00:13,  4.02it/s]Extracting : pybind11-abi-4-hd3eb1b0_1.conda:  23%|████████▍                            | 16/70 [00:00<00:13,  4.02it/s]Extracting : conda-libmamba-solver-23.5.0-py311h06a4308_0.conda:  24%|████▎             | 17/70 [00:00<00:13,  4.02it/s]Extracting : cryptography-39.0.1-py311h9ce1e76_2.conda:  26%|██████▉                    | 18/70 [00:00<00:12,  4.02it/s]Extracting : zstd-1.5.5-hc292b87_0.conda:  27%|███████████▏                             | 19/70 [00:00<00:12,  4.02it/s]Extracting : libxml2-2.10.3-hcbfbd50_0.conda:  29%|██████████▌                          | 20/70 [00:00<00:12,  4.02it/s]Extracting : pluggy-1.0.0-py311h06a4308_1.conda:  30%|██████████▏                       | 21/70 [00:00<00:12,  4.02it/s]Extracting : pycosat-0.6.4-py311h5eee18b_0.conda:  31%|██████████▎                      | 22/70 [00:00<00:11,  4.02it/s]Extracting : sqlite-3.41.2-h5eee18b_0.conda:  33%|████████████▍                         | 23/70 [00:00<00:11,  4.02it/s]Extracting : cffi-1.15.1-py311h5eee18b_3.conda:  34%|████████████                       | 24/70 [00:00<00:11,  4.02it/s]Extracting : libffi-3.4.4-h6a678d5_0.conda:  36%|█████████████▉                         | 25/70 [00:00<00:11,  4.02it/s]Extracting : pip-23.1.2-py311h06a4308_0.conda:  37%|█████████████▎                      | 26/70 [00:00<00:10,  4.02it/s]Extracting : pip-23.1.2-py311h06a4308_0.conda:  39%|█████████████▉                      | 27/70 [00:00<00:00, 48.57it/s]Extracting : libmambapy-1.4.1-py311h2dafd23_1.conda:  39%|███████████▌                  | 27/70 [00:00<00:00, 48.57it/s]Extracting : libstdcxx-ng-11.2.0-h1234567_1.conda:  40%|████████████▊                   | 28/70 [00:00<00:00, 48.57it/s]Extracting : fmt-9.1.0-hdb19cb5_0.conda:  41%|█████████████████▍                        | 29/70 [00:00<00:00, 48.57it/s]Extracting : c-ares-1.19.0-h5eee18b_0.conda:  43%|████████████████▎                     | 30/70 [00:00<00:00, 48.57it/s]Extracting : libsolv-0.7.22-he621ea3_0.conda:  44%|████████████████▍                    | 31/70 [00:00<00:00, 48.57it/s]Extracting : xz-5.4.2-h5eee18b_0.conda:  46%|███████████████████▋                       | 32/70 [00:00<00:00, 48.57it/s]Extracting : urllib3-1.26.16-py311h06a4308_0.conda:  47%|██████████████▌                | 33/70 [00:00<00:00, 48.57it/s]Extracting : certifi-2023.5.7-py311h06a4308_0.conda:  49%|██████████████▌               | 34/70 [00:00<00:00, 48.57it/s]Extracting : libedit-3.1.20221030-h5eee18b_0.conda:  50%|███████████████▌               | 35/70 [00:00<00:00, 48.57it/s]Extracting : libgomp-11.2.0-h1234567_1.conda:  51%|███████████████████                  | 36/70 [00:00<00:00, 48.57it/s]Extracting : reproc-14.2.4-h295c915_1.conda:  53%|████████████████████                  | 37/70 [00:00<00:00, 48.57it/s]Extracting : _libgcc_mutex-0.1-main.conda:  54%|█████████████████████▋                  | 38/70 [00:00<00:00, 48.57it/s]Extracting : bzip2-1.0.8-h7b6447c_0.conda:  56%|██████████████████████▎                 | 39/70 [00:00<00:00, 48.57it/s]Extracting : pyopenssl-23.0.0-py311h06a4308_0.conda:  57%|█████████████████▏            | 40/70 [00:00<00:00, 48.57it/s]Extracting : wheel-0.38.4-py311h06a4308_0.conda:  59%|███████████████████▉              | 41/70 [00:00<00:00, 48.57it/s]Extracting : jsonpatch-1.32-pyhd3eb1b0_0.conda:  60%|█████████████████████              | 42/70 [00:00<00:00, 48.57it/s]Extracting : readline-8.2-h5eee18b_0.conda:  61%|███████████████████████▉               | 43/70 [00:00<00:00, 48.57it/s]Extracting : pycparser-2.21-pyhd3eb1b0_0.conda:  63%|██████████████████████             | 44/70 [00:00<00:00, 48.57it/s]Extracting : openssl-3.0.9-h7f8727e_0.conda:  64%|████████████████████████▍             | 45/70 [00:00<00:00, 48.57it/s]Extracting : conda-package-handling-2.1.0-py311h06a4308_0.conda:  66%|███████████▊      | 46/70 [00:00<00:00, 48.57it/s]Extracting : six-1.16.0-pyhd3eb1b0_1.conda:  67%|██████████████████████████▏            | 47/70 [00:00<00:00, 48.57it/s]Extracting : libnghttp2-1.52.0-h2d74bed_1.conda:  69%|███████████████████████▎          | 48/70 [00:00<00:00, 48.57it/s]Extracting : packaging-23.0-py311h06a4308_0.conda:  70%|██████████████████████▍         | 49/70 [00:00<00:00, 48.57it/s]Extracting : libmamba-1.4.1-h2dafd23_1.conda:  71%|██████████████████████████▍          | 50/70 [00:00<00:00, 48.57it/s]Extracting : ruamel.yaml-0.17.21-py311h5eee18b_0.conda:  73%|███████████████████▋       | 51/70 [00:00<00:00, 48.57it/s]Extracting : zstandard-0.19.0-py311h5eee18b_0.conda:  74%|██████████████████████▎       | 52/70 [00:00<00:00, 48.57it/s]Extracting : idna-3.4-py311h06a4308_0.conda:  76%|████████████████████████████▊         | 53/70 [00:00<00:00, 48.57it/s]Extracting : reproc-cpp-14.2.4-h295c915_1.conda:  77%|██████████████████████████▏       | 54/70 [00:00<00:00, 48.57it/s]Extracting : conda-package-streaming-0.8.0-py311h06a4308_0.conda:  79%|█████████████▎   | 55/70 [00:00<00:00, 48.57it/s]Extracting : setuptools-67.8.0-py311h06a4308_0.conda:  80%|███████████████████████▏     | 56/70 [00:00<00:00, 48.57it/s]Extracting : python-3.11.4-h955ad1f_0.conda:  81%|██████████████████████████████▉       | 57/70 [00:01<00:00, 48.57it/s]Extracting : python-3.11.4-h955ad1f_0.conda:  83%|███████████████████████████████▍      | 58/70 [00:01<00:00, 50.22it/s]Extracting : lz4-c-1.9.4-h6a678d5_0.conda:  83%|█████████████████████████████████▏      | 58/70 [00:01<00:00, 50.22it/s]Extracting : tk-8.6.12-h1ccaba5_0.conda:  84%|███████████████████████████████████▍      | 59/70 [00:01<00:00, 50.22it/s]Extracting : zlib-1.2.13-h5eee18b_0.conda:  86%|██████████████████████████████████▎     | 60/70 [00:01<00:00, 50.22it/s]Extracting : _openmp_mutex-5.1-1_gnu.conda:  87%|█████████████████████████████████▉     | 61/70 [00:01<00:00, 50.22it/s]Extracting : krb5-1.20.1-h143b758_1.conda:  89%|███████████████████████████████████▍    | 62/70 [00:01<00:00, 50.22it/s]Extracting : boltons-23.0.0-py311h06a4308_0.conda:  90%|████████████████████████████▊   | 63/70 [00:01<00:00, 50.22it/s]Extracting : libcurl-8.1.1-h251f7ec_1.conda:  91%|██████████████████████████████████▋   | 64/70 [00:01<00:00, 50.22it/s]Extracting : conda-content-trust-0.1.3-py311h06a4308_0.conda:  93%|███████████████████▌ | 65/70 [00:01<00:00, 50.22it/s]Extracting : libarchive-3.6.2-h6ac8c49_2.conda:  94%|█████████████████████████████████  | 66/70 [00:01<00:00, 50.22it/s]Extracting : ncurses-6.4-h6a678d5_0.conda:  96%|██�
